@@ -1,0 +1,7 @@
+item.lamptop.name=Lamp Top
+item.lampbot.name=Lamp Bot
+
+tile.glowingBricks.name=Glowing Stone Bricks
+tile.light.name=Light
+
+itemGroup.tabLight=Better Lights
